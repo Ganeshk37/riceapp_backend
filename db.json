@@ -1,0 +1,32 @@
+{
+"users":[
+    {
+    "id":"user_id-1",
+    "name":"friend",
+    "email":"friend@gmail.com",
+    "password":"password123"
+}
+],
+"dealers":[
+    {
+    "dealer_id":"dealer_id1",
+    "name":"Ganesh",
+    "email":"ganesh@gamil.com",
+    "password":"password123",
+    "comapny_name":"xyz",
+    "mobile":7569009239,
+    "isActive":true,
+    "payment":[]
+
+    }
+],
+"products":[
+    {
+      "prodid":112,
+      "prod_title":"sona masoori" ,
+      "price":120,
+      "quantity":25 
+    }
+]
+
+}
